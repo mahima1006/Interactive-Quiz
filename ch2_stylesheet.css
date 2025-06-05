@@ -1,0 +1,27 @@
+body { 
+        background-color: rgb(116, 151, 90);
+        font-family: Arial; 
+        text-align: center; 
+        padding: 20px; 
+    }
+    h1{
+      color: rgb(70, 42, 8);
+    }
+    .question-box {
+      background-color: bisque;
+      margin: 50px auto; 
+      padding-top:30px;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-bottom: 50px;
+      max-width: 500px; 
+    }
+    button { 
+      background-color:rgb(134, 95, 101);
+      margin: 5px; 
+      padding: 10px 20px; 
+    }
+    #feedback { 
+        font-weight: bold; 
+        margin-top: 15px; 
+    }
