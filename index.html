@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    body{
+        background-color: rgb(200, 158, 106);
+    }
+    h1{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+        color: brown;
+        font-family:sans-serif ;
+    }
+    .choice{
+        display: flex;
+        justify-content: center;
+        gap:25px;
+        margin-top: 35px;
+    }
+    .choice button{
+
+        margin:10px;
+    }
+    button {
+        background-color: #072e50; 
+        color: white;              
+        padding: 12px 20px;        
+        border: none;              
+        border-radius: 8px;        /* Rounded corners */
+        font-size: 16px;           
+        cursor: pointer;           /* Cursor changes to pointer on hover */
+        transition: background-color 0.3s ease; /* Smooth hover transition */
+    }
+    button:hover {
+        background-color: #4569a0; 
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive quiz</title>
+</head>
+<body>
+    <h1 style="color:rgb(29, 44, 44);background-color: cornflowerblue;">INTERACTIVE QUIZ</h1>
+    <h1>Welcome to our quiz page</h1>
+    <h3>We have two options for you, kindly choose your preferred choice of quiz topic to move forward and attempt it</h3>
+    <p class="choice">
+        <button onclick="window.location.href='choice1.html'">HTML Quiz</button>
+        <button onclick="window.location.href='choice2.html'">GK Quiz</button>
+        <button onclick="window.location.href='choice3.html'">Science Quiz</button>
+    </p>
+</body>
+</html>
