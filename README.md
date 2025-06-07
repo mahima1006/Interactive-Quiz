@@ -21,3 +21,12 @@ The frontend styling has been handled using both internal and external CSS, allo
 Applications of this quiz platform:
 This Interactive quiz application can be used for various purposes like education platforms, it can be put to use as a self assessment tool helping students to learn and improve themselves at their own pace. they can be used as prep tools, very similar to using flash cards.
 
+![pg1](https://github.com/user-attachments/assets/e09cc89b-b0a9-4ec3-ada9-597cf9da7228)
+
+![pg2](https://github.com/user-attachments/assets/c9c376af-012b-43f6-98a5-f67353c8a706)
+
+![pg3](https://github.com/user-attachments/assets/6e31b475-0751-411b-9364-739b8bb3e228)
+
+![pg4](https://github.com/user-attachments/assets/24d314c4-93a3-4a04-bb6b-5b32f1680db4)
+
+
